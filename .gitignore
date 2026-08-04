@@ -14,6 +14,9 @@ build/
 *.log
 npm-debug.log*
 
+# Personal deployment notes — keep local, not on GitHub
+DEPLOYMENT.md
+
 # OS / editor cruft
 .DS_Store
 Thumbs.db
